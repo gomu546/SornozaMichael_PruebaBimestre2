@@ -1,0 +1,20 @@
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:18:15 | SornozaMichael_HormigaDAO.DataHelperSQLiteDAO | No suitable driver found for SornozaMichael_storage\Databases\SornozaMichael_antCiberDron.sqlite
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-13 21:18:15 | SornozaMichael_FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:21:09 | SornozaMichael_HormigaDAO.DataHelperSQLiteDAO | No suitable driver found for SornozaMichael_storage\Databases\SornozaMichael_antCiberDron.sqlite
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-13 21:21:09 | SornozaMichael_FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:23:34 | SornozaMichael_HormigaDAO.SornozaMichael_DataHelperSQLiteDAO | No suitable driver found for SornozaMichael_storage\Databases\SornozaMichael_antCiberDron.sqlite
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-13 21:23:34 | SornozaMichael_FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:29:37 | SornozaMichael_HormigaDAO.SornozaMichael_DataHelperSQLiteDAO | No suitable driver found for SornozaMichael_storage\Databases\SornozaMichael_antCiberDron.sqlite
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-13 21:29:37 | SornozaMichael_FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:31:22 | SornozaMichael_HormigaDAO.mapResultSetToEntity | IdHormiga
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 21:39:05 | SornozaMichael_HormigaDAO.readBy | [SQLITE_ERROR] SQL error or missing database (no such column: Estado)

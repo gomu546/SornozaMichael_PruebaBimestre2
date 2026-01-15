@@ -1,0 +1,24 @@
+//  © 2K26 ❱──💀──❰ pat_mic ? code is life : life is code
+package Infrastructure;
+
+import java.net.URL;
+
+public abstract class AppConfig {
+    // Paths Storage
+    public static final String DATABASE = "jdbc:sqlite:SornozaMichael_storage\\Databases\\SornozaMichael_antCiberDron.sqlite";
+    public static final String DATAFILE = "SornozaMichael_storage\\DataFiles\\SornozaMichael_.csv";
+    public static final String LOGFILE = "SornozaMichael_storage\\Logs\\SornozaMichael_AppErrors.log";
+
+    // Resources
+    public static final URL URL_MAIN = AppConfig.class.getResource("Resource/logo.png");
+    public static final URL URL_LOGO = AppConfig.class.getResource("Resource/logo.png");
+    public static final URL URL_SPLASH = AppConfig.class.getResource("/Infrastructure/Assets/Img/Splash.png");
+
+    // AppMSGs
+    public static final String MSG_DEFAULT_ERROR = "Ups! Error inesperado. Por favor, contacte al administrador del sistema.";
+    public static final String MSG_DEFAULT_CLASS = "undefined";
+    public static final String MSG_DEFAULT_METHOD = "undefined";
+
+    private AppConfig() {
+    }
+}
